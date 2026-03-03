@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UIElement": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

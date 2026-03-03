@@ -1,0 +1,6 @@
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\Interop.UIAutomationClient.dll
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\UIElement.csproj.ResolveComReference.cache
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\UIElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\UIElement.AssemblyInfoInputs.cache
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\UIElement.AssemblyInfo.cs
+C:\Users\QA\source\repos\UIElement\UIElement\obj\Debug\net8.0\UIElement.csproj.CoreCompileInputs.cache
