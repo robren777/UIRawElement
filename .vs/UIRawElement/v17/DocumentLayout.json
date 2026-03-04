@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UIRawElement",
+              "Title": "UIRawElement.csproj",
               "DocumentMoniker": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
               "RelativeDocumentMoniker": "UIElement\\UIRawElement.csproj",
               "ToolTip": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
               "RelativeToolTip": "UIElement\\UIRawElement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-04T17:55:17.523Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "UIElement\\Program.cs",
               "ToolTip": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\Program.cs",
               "RelativeToolTip": "UIElement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T17:45:12.885Z",
               "EditorCaption": ""
