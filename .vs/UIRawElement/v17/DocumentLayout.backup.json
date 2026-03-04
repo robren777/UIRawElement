@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\QA\\source\\repos\\UIRawElement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIElement.csproj|c:\\users\\qa\\source\\repos\\uirawelement\\uielement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIElement.csproj|solutionrelative:uielement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|c:\\users\\qa\\source\\repos\\uirawelement\\uielement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|solutionrelative:uielement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|c:\\users\\qa\\source\\repos\\uirawelement\\uielement\\uirawelement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|solutionrelative:uielement\\uirawelement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|c:\\users\\qa\\source\\repos\\uirawelement\\uielement\\uirawelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5DF45131-AE4E-4CA6-850B-2056A034C18C}|UIElement\\UIRawElement.csproj|solutionrelative:uielement\\uirawelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,31 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIElement",
-              "DocumentMoniker": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
-              "RelativeDocumentMoniker": "UIElement\\UIRawElement.csproj",
-              "ToolTip": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
-              "RelativeToolTip": "UIElement\\UIRawElement.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T01:37:08.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UIElement.csproj",
+              "Title": "UIRawElement",
               "DocumentMoniker": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
               "RelativeDocumentMoniker": "UIElement\\UIRawElement.csproj",
               "ToolTip": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
               "RelativeToolTip": "UIElement\\UIRawElement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T00:28:57.091Z",
+              "WhenOpened": "2026-03-04T17:55:17.523Z",
               "EditorCaption": ""
             },
             {
@@ -57,7 +41,7 @@
               "RelativeDocumentMoniker": "UIElement\\Program.cs",
               "ToolTip": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\Program.cs",
               "RelativeToolTip": "UIElement\\Program.cs",
-              "ViewState": "AgIAAAQAAACAzczMzMwWwDsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T17:45:12.885Z",
               "EditorCaption": ""

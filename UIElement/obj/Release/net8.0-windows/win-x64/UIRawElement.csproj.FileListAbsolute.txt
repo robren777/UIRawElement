@@ -1,0 +1,17 @@
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\win-x64\UIRawElement.exe
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\win-x64\UIRawElement.deps.json
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\win-x64\UIRawElement.runtimeconfig.json
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\win-x64\UIRawElement.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\win-x64\UIRawElement.pdb
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\Interop.UIAutomationClient.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.csproj.ResolveComReference.cache
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.AssemblyInfoInputs.cache
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.AssemblyInfo.cs
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.csproj.CoreCompileInputs.cache
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.sourcelink.json
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\refint\UIRawElement.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.pdb
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\UIRawElement.genruntimeconfig.cache
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0-windows\win-x64\ref\UIRawElement.dll

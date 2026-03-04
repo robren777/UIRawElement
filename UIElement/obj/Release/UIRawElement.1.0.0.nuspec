@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UIRawElement</id>
+    <version>1.0.0</version>
+    <authors>UIRawElement</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="78760ca473abc22f7e8bbfda98db2b459c7ae5ca" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\UIRawElement.runtimeconfig.json" target="lib\net8.0-windows7.0\UIRawElement.runtimeconfig.json" />
+    <file src="C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0-windows\UIRawElement.dll" target="lib\net8.0-windows7.0\UIRawElement.dll" />
+  </files>
+</package>
