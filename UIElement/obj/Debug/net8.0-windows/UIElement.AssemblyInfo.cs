@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d7fa662c34416b32de7a4866ad85056b76969ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QA\\source\\repos\\UIElement\\UIElement\\UIElement.csproj",
-      "projectName": "UIElement",
-      "projectPath": "C:\\Users\\QA\\source\\repos\\UIElement\\UIElement\\UIElement.csproj",
+      "projectUniqueName": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
+      "projectName": "UIRawElement",
+      "projectPath": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
       "packagesPath": "C:\\Users\\QA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QA\\source\\repos\\UIElement\\UIElement\\obj\\",
+      "outputPath": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QA\\AppData\\Roaming\\NuGet\\NuGet.Config",
