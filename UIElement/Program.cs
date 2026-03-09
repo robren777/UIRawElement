@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Drawing;
+using System.Text;
 using UIAutomationClient;
 
 /*------------------------------------------------------------------------------------------
@@ -21,6 +22,7 @@ class AutomationFlow
         //int values for element propeties
         int Property_Name = 30005;
         int Property_AutomationId = 30011;
+        int Property_BoundingRectangle = 30001;
 
         //int value for element patternId
         int PatternID_Invoke = 10000;
@@ -78,6 +80,20 @@ class AutomationFlow
                         string textBlock = automation.RawViewWalker.GetLastChildElement(individualButton).GetCurrentPropertyValue(Property_Name);
                         if (textBlock.Equals(args[1]))
                         {
+                            Graphics g = Graphics.FromHwnd(IntPtr.Zero);
+                            Pen pen = new(Color.Red, 3);
+
+                            var rect = individualButton.GetCurrentPropertyValue(Property_BoundingRectangle);
+
+                            double left = rect[0];
+                            double top = rect[1];
+                            double right = rect[2];
+                            double bottom = rect[3];
+
+                            //realiza highlight al elemento
+                            g.DrawRectangle(pen, (float)left ,(float)top , (float)right ,(float)bottom);
+                            
+                            //invoca el pattern nativo (click)
                             IUIAutomationInvokePattern pattern = individualButton.GetCurrentPattern(PatternID_Invoke);
                             pattern.Invoke();
                             break;

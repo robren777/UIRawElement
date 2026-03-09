@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIRawElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc697a93296f934cbd567d291f3214265356c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3a7ab2812a34686f00d9a01b44baaef8a6b53f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIRawElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIRawElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,10 @@ C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\UIRawElement.
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\refint\UIRawElement.dll
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\UIRawElement.genruntimeconfig.cache
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\ref\UIRawElement.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0\System.Private.Windows.Core.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0\System.Private.Windows.GdiPlus.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\UIRawElement.csproj.AssemblyReference.cache
+C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\UIRawEle.1E3E19E9.Up2Date
