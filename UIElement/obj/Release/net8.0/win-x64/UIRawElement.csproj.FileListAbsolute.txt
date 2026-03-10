@@ -195,3 +195,23 @@ C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRaw
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\win-x64\refint\UIRawElement.dll
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.genruntimeconfig.cache
 C:\Users\QA\source\repos\UIRawElement\UIElement\obj\Release\net8.0\win-x64\ref\UIRawElement.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\refint\UIRawElement.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\UIRawElement.exe
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\UIRawElement.deps.json
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\UIRawElement.runtimeconfig.json
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\UIRawElement.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\System.Drawing.Common.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\System.Private.Windows.Core.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\bin\Release\net8.0\win-x64\System.Private.Windows.GdiPlus.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.csproj.AssemblyReference.cache
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\Interop.UIAutomationClient.dll
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.csproj.ResolveComReference.cache
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.AssemblyInfoInputs.cache
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.AssemblyInfo.cs
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.csproj.CoreCompileInputs.cache
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawEle.1E3E19E9.Up2Date
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\UIRawElement.genruntimeconfig.cache
+C:\Users\GTIM\Documents\Projects\Gestion Automatización\UTILERIAS\UIX\UIRawElement\UIElement\obj\Release\net8.0\win-x64\ref\UIRawElement.dll

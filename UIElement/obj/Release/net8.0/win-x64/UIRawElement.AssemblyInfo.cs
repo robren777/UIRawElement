@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIRawElement")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("RELEASE")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc697a93296f934cbd567d291f3214265356c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f97d9b45ec703ecce4afe59092d8904acd36f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIRawElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIRawElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

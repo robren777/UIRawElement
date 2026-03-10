@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj": {}
+    "C:\\Users\\GTIM\\Documents\\Projects\\Gestion Automatización\\UTILERIAS\\UIX\\UIRawElement\\UIElement\\UIRawElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj": {
+    "C:\\Users\\GTIM\\Documents\\Projects\\Gestion Automatización\\UTILERIAS\\UIX\\UIRawElement\\UIElement\\UIRawElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
+        "projectUniqueName": "C:\\Users\\GTIM\\Documents\\Projects\\Gestion Automatización\\UTILERIAS\\UIX\\UIRawElement\\UIElement\\UIRawElement.csproj",
         "projectName": "UIRawElement",
-        "projectPath": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\UIRawElement.csproj",
-        "packagesPath": "C:\\Users\\QA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QA\\source\\repos\\UIRawElement\\UIElement\\obj\\",
+        "projectPath": "C:\\Users\\GTIM\\Documents\\Projects\\Gestion Automatización\\UTILERIAS\\UIX\\UIRawElement\\UIElement\\UIRawElement.csproj",
+        "packagesPath": "C:\\Users\\GTIM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GTIM\\Documents\\Projects\\Gestion Automatización\\UTILERIAS\\UIX\\UIRawElement\\UIElement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\QA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GTIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -62,12 +62,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.24, 8.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[8.0.24, 8.0.24]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
